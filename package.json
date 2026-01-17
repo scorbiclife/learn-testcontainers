@@ -12,6 +12,7 @@
   "packageManager": "pnpm@10.27.0",
   "devDependencies": {
     "@jest/globals": "^30.2.0",
+    "@testcontainers/redis": "^11.11.0",
     "@types/jest": "^30.0.0",
     "jest": "^30.2.0",
     "testcontainers": "^11.11.0",
